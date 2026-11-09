@@ -51,5 +51,6 @@ I'm interested in collaborating on web and Electron apps, AI-assisted learning t
 💻 [GitHub](https://github.com/praisecyber)  
 📸 [Instagram](https://www.instagram.com/probix2pro/)  
 🐦 [X / Twitter](https://x.com/jamespraisw6wx)  
+💬 [WhatsApp](https://wa.me/2349121598033)  
 
 > **Think boldly. Build patiently. Create with purpose.**
