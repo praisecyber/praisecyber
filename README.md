@@ -50,7 +50,7 @@ I'm interested in collaborating on web and Electron apps, AI-assisted learning t
 📍 Nigeria  
 🐙 [GitHub](https://github.com/praisecyber)  
 📸 [Instagram](https://www.instagram.com/probix2pro/)  
-𝕏 [X / Twitter](https://x.com/jamespraisw6wx)  
-💬 [WhatsApp](https://wa.me/2349121598033)  
+<a href="https://x.com/jamespraisw6wx"><img src="https://cdn.simpleicons.org/x/ffffff" width="18" height="18" alt="X" /></a> <a href="https://x.com/jamespraisw6wx">X</a>  
+<a href="https://wa.me/2349121598033"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="18" height="18" alt="WhatsApp" /></a> <a href="https://wa.me/2349121598033">WhatsApp</a>  
 
 > **Think boldly. Build patiently. Create with purpose.**
