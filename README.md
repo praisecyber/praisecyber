@@ -1,4 +1,4 @@
-# Hi, I'm James Chidubem Praise 👋
+# Hi, I’m James Chidubem Praise 👋
 
 **You can call me Probix.** I'm a Nigerian software developer and student at Michael Okpara University of Agriculture, Umudike (MOUAU). I build web and desktop applications, explore AI-powered tools, and enjoy bringing software and creative ideas together.
 
@@ -43,14 +43,16 @@ Alongside software development, I work in digital photo editing and serve as Chi
 
 I completed Cisco Networking Academy's IT Essentials course and took part in industrial training at the MOUAU ICT Centre. I continue to learn by building projects, testing ideas, and improving through feedback.
 
-## 🤝 Let's connect
+## 🤝 Let’s connect
 
 I'm interested in collaborating on web and Electron apps, AI-assisted learning tools, multilingual technology, and creative software.
 
-📍 Nigeria  
-🐙 [GitHub](https://github.com/praisecyber)  
-📸 [Instagram](https://www.instagram.com/probix2pro/)  
-<a href="https://x.com/jamespraisw6wx"><img src="https://cdn.simpleicons.org/x/ffffff" width="18" height="18" alt="X" /></a> <a href="https://x.com/jamespraisw6wx">X</a>  
-<a href="https://wa.me/2349121598033"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="18" height="18" alt="WhatsApp" /></a> <a href="https://wa.me/2349121598033">WhatsApp</a>  
+<p align="left">
+  <a href="https://github.com/praisecyber"><img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/probix2pro/"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="32" height="32" alt="Instagram" /></a>
+  <a href="https://x.com/jamespraisw6wx"><img src="https://cdn.simpleicons.org/x/ffffff" width="32" height="32" alt="X" /></a>
+  <a href="https://wa.me/2349121598033"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" /></a>
+  <a href="https://facebook.com/Frankemesinwa"><img src="https://cdn.simpleicons.org/facebook/ffffff" width="32" height="32" alt="Facebook" /></a>
+</p>
 
 > **Think boldly. Build patiently. Create with purpose.**
