@@ -1,6 +1,6 @@
 # Hi, I’m James Chidubem Praise 👋
 
-**You can call me Probix.** I'm a Nigerian software developer and student at Michael Okpara University of Agriculture, Umudike (MOUAU). I build web and desktop applications, explore AI-powered tools, and enjoy bringing software and creative ideas together.
+**You can call me Probix.** I'm a Nigerian software developer and student at Michael Okpara University of Agriculture, Umudike (MOUAU). I build web and desktop applications, explore AI-powered tools, and enjoy bringing practical ideas to life.
 
 I'm especially interested in useful technology for learning, communication, and creative work—including tools that make digital experiences more accessible to African-language speakers.
 
@@ -13,8 +13,10 @@ I'm especially interested in useful technology for learning, communication, and 
 
 ## 🛠️ Tools I use and explore
 
-**Web:** JavaScript, React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs  
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, NestJS, Express.js, REST APIs  
+**Cloud & deployment:** Vercel, AWS, Cloudflare  
+**Package managers:** npm, Yarn  
 **Data & services:** MongoDB, Firebase, Supabase  
 **Desktop:** Electron  
 **AI & experimentation:** Gemini API, Hugging Face, Python, PyTorch  
@@ -39,9 +41,9 @@ Some of these are tools I use regularly; others are areas I'm actively learning.
 
 ## A little more about me
 
-Alongside software development, I work in digital photo editing and serve as Chief Photo Editor at Rhema City Conas Hall. I enjoy projects that combine thoughtful interfaces, practical engineering, and visual creativity.
+Alongside software development, I work in digital photo editing and serve as Chief Photo Editor at Rhema City Conas Hall. I enjoy projects that combine thoughtful interfaces, practical engineering, and creativity.
 
-I completed Cisco Networking Academy's IT Essentials course and took part in industrial training at the MOUAU ICT Centre. I continue to learn by building projects, testing ideas, and improving through feedback.
+I completed Cisco Networking Academy's IT Essentials course and took part in industrial training at the MOUAU ICT Centre. I continue to learn by building projects, testing ideas, and improving through practice.
 
 ## 🤝 Let’s connect
 
