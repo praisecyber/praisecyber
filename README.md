@@ -47,6 +47,8 @@ I completed Cisco Networking Academy's IT Essentials course and took part in ind
 
 I'm interested in collaborating on web and Electron apps, AI-assisted learning tools, multilingual technology, and creative software.
 
-📍 Nigeria · [GitHub](https://github.com/praisecyber)
+📍 Nigeria  
+💻 [GitHub](https://github.com/praisecyber)  
+📸 [Instagram](https://www.instagram.com/probix2pro/)  
 
 > **Think boldly. Build patiently. Create with purpose.**
