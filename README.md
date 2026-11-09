@@ -50,5 +50,6 @@ I'm interested in collaborating on web and Electron apps, AI-assisted learning t
 📍 Nigeria  
 💻 [GitHub](https://github.com/praisecyber)  
 📸 [Instagram](https://www.instagram.com/probix2pro/)  
+🐦 [X / Twitter](https://x.com/jamespraisw6wx)  
 
 > **Think boldly. Build patiently. Create with purpose.**
