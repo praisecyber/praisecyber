@@ -11,28 +11,34 @@ I'm especially interested in useful technology for learning, communication, and 
 - 🚕 **[Campus Autonomous Taxi](https://github.com/praisecyber/Autonomous-Taxi)** — a collaborative project exploring a React interface and connected hardware with ESP32-CAM and Arduino.
 - 🎙️ **Yoruba text-to-speech** — learning about speech datasets, Python, PyTorch, and StyleTTS2.
 
-## 🛠️ Tools I use and explore
+## 💻 Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Next.js, Tailwind CSS  
-**Backend:** Node.js, NestJS, Express.js, REST APIs  
-**Cloud & deployment:** Vercel, AWS, Cloudflare  
-**Package managers:** npm, Yarn  
-**Data & services:** MongoDB, Firebase, Supabase  
-**Desktop:** Electron  
-**AI & experimentation:** Gemini API, Hugging Face, Python, PyTorch  
-**Creative & hardware:** Blender, Unity, Arduino, ESP32-CAM
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Some of these are tools I use regularly; others are areas I'm actively learning. My repositories show what I've built and what I'm exploring.
 
-## 📊 GitHub at a glance
+## 📊 GitHub Stats
+
+![GitHub streak stats](https://streak-stats.demolab.com?user=praisecyber&theme=dark&hide_border=true&background=0D1117&ring=FBBF24&fire=FBBF24&currStreakLabel=FBBF24)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=praisecyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats for praisecyber" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisecyber&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages for praisecyber" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=praisecyber&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for praisecyber" />
 </p>
 
 <p align="center">
